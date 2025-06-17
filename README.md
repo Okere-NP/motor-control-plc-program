@@ -33,4 +33,5 @@ The logic ensures **safe motor operation**, preventing motor run conditions if f
 6. If NO **Alarm Indicated** Motor is Running (Functioanl)
 
 **Author:** [Okere Prince N.]
+
 **Contact:** [https://www.linkedin.com/in/prince-okere-686912177/]
